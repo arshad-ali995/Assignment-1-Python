@@ -6,4 +6,3 @@ This repository contains Python programming assignment tasks.
 - Task 2: Display same message five times
 - Task 3: Summation of a series
 - Task 4: Area and perimeter of a circle
-- Task 5: Python Operators
